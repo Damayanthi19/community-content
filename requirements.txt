@@ -1,0 +1,7 @@
+google-cloud-aiplatform>=1.30.0
+google-cloud-storage
+pandas
+numpy
+torch
+scikit-learn
+matplotlib
