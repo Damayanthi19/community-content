@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Damayanthi19/community-content/blob/main/vertex_ai_image_classifier.ipynb)
+
 # Vertex AI Image Classifier (Community Content)
 
 This project is adapted from Google Cloud’s Vertex AI samples.  
